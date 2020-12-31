@@ -3,7 +3,7 @@
 ## CSCI 56 Object Oriented Game Development, Spring 2019
 
 ### Group members:
-###     Jonathan Bueff (leader)
+###     Jonathan Bueff
 ###     Eric Nguyen
 ###     Ryan Cullen
 ###     Sydney Baffour
